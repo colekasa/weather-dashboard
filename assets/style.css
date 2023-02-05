@@ -1,0 +1,31 @@
+.searchbar{
+    padding: 35px;
+    background-color: brown;
+}
+
+.citySearch{
+    margin-top: 20px;
+    height:25px;
+}
+
+
+.savedCities{
+    height: 100vh;
+    background-color: brown;
+    padding: 25px 0px 0px 0px ;
+}
+
+.card-group{
+    height: 40vh;
+    margin-top: 20px;
+}
+
+
+
+.todayWeather{
+    height: 40vh;
+}
+
+.title{
+    margin: 25px 0px 25px 0px;
+}
