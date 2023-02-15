@@ -20,12 +20,22 @@
     margin-top: 20px;
 }
 
-
-
 .todayWeather{
     height: 40vh;
 }
 
+.card-img-top{
+    width: 50px;
+    aspect-ratio: 1;
+}
+
 .title{
     margin: 25px 0px 25px 0px;
+}
+
+#search{
+    margin: 15px 0px 15px 35px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    
 }
