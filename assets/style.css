@@ -1,13 +1,23 @@
 .searchbar{
     padding: 35px;
     background-color: brown;
+    border: solid black 3px;
 }
 
 .citySearch{
     margin-top: 20px;
     height:25px;
+    border: solid black 2px;
+    border-radius: 5px;
 }
 
+.weatherTitle{
+    color: white;
+}
+
+.city{
+    color: white;
+}
 
 .savedCities{
     height: 100vh;
@@ -37,5 +47,8 @@
     margin: 15px 0px 15px 35px ;
     padding-left: 30px;
     padding-right: 30px;
-    
+}
+
+.hide{
+    display: none;
 }
